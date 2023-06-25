@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stereobox</title>
+</head>
+<body bgcolor="#06B4AE">
+    <font color="white"><h1><b>Welcome to Stereobox, the home for all music lovers.</b></h1>
+    <h2><b><u>Sign up now to receive a free 30-days trial!</u></b></h2>
+   <form onsubmit="alert('Registration sent!')"><div><input type="text" placeholder="Your full name"/></div>
+    <div><input type="text" placeholder="Your nickname"/></div>
+   <div><input type="email" placeholder="Your email"/></div>
+   <div><input type="password" placeholder="Your password"/></div>
+   <div><input type="date" placeholder="Your birthdate"/></div>
+   <div><input type="number" placeholder="Your phone number"/></div>
+   <br><br>
+   <h3><b>Tell us more about your favorite music!</b></h3>
+   <p><input type="checkbox"/>Rock
+<br><input type="checkbox"/>Pop
+<br><input type="checkbox"/>Indie
+<br><input type="checkbox"/>Classic
+<br><input type="checkbox"/>Rap
+<br><input type="checkbox"/>Hip Hop
+<br><input type="checkbox"/>Jazz</p>
+<div><h4><input type="radio">I accept the terms and conditions</h4></div>
+   <div><button type="submit">SEND</button></div></form>
+</font></body>
+</html>
